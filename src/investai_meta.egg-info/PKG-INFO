@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: investai_meta
+Version: 0.1.0
+Summary: InvestAI: agente de recomendação de investimentos (pasta 2, com metacognição)
+Requires-Python: >=3.11

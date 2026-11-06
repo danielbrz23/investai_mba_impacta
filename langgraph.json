@@ -1,0 +1,5 @@
+{
+  "dependencies": ["."],
+  "graphs": { "investai_meta": "./src/investai_meta/studio.py:graph" },
+  "store": { "path": "./src/investai_meta/store_studio.py:gerar_store" }
+}
